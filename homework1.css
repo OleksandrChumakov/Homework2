@@ -1,16 +1,17 @@
 body {
     margin-bottom: 5 px;
+    margin: 0 auto;
     max-width: 800px;
     font-family: Arial;
     font-size: 16px;
     line-height: 1.0em;
     color: black;
        }
-.Header {text-align: center;}
-.Header h1 {color: firebrick;}
-.Header p {border-bottom: 2px solid grey; padding-bottom: 20px}
-.Body1 p {padding: 20px; 20px}
-.Body1 ul {border-bottom: 2px solid grey; line-height: 2.5em; padding-bottom: 30px}
-.Body2 p { width: 200px; padding: 10px; line-height: 2.0em}
-.Footer {border-top: 2px solid grey; padding: 20px}
+.header {text-align: center;}
+.header h1 {color: firebrick;}
+.header p {border-bottom: 2px solid grey; padding-bottom: 20px}
+.body1 p {padding: 20px; 20px}
+.body1 ul {border-bottom: 2px solid grey; line-height: 2.5em; padding-bottom: 30px}
+.body2 p { width: 200px; padding: 10px; line-height: 2.0em}
+.footer {border-top: 2px solid grey; padding: 20px}
 
